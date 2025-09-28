@@ -16,4 +16,4 @@ This repository contains a multi-page Streamlit app demonstrating:
 
 
 ## Deploy
-Push to GitHub and connect to Streamlit Cloud (https://streamlit.io/cloud)"# COVID-19-Tracker" 
+Push to GitHub and connect to Streamlit Cloud ([https://streamlit.io/cloud](https://janitha2000-covid-19-tracker-app-5ekph5.streamlit.app/))"# COVID-19-Tracker" 
